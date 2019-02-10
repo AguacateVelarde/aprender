@@ -12,7 +12,6 @@
 
 ## ML & AI 
  - Tensorflow 
-	 - Python
  - Keras 
  - Q Learning
  - Sonnet ( [link](https://github.com/deepmind/sonnet) )
@@ -23,6 +22,7 @@
  - PostgreSQL (!!!!!)
  - Mongo DB 
   - Mongoose
+ - Bookshelf.js ( [Link]( https://bookshelfjs.org/ ) ) 
   
 
 ## Programming
@@ -30,6 +30,7 @@
  - Golang ( [Link](https://golang.org/#) )
  - Dart ( [Link](https://www.dartlang.org/) ) 
   - Flutter *Web
+ - Python 
 
 ## Best practices
  - Design patterns
