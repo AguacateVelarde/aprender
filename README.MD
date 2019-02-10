@@ -19,6 +19,8 @@
  - Keras 
  - Q Learning
  - Sonnet ( [link](https://github.com/deepmind/sonnet) )
+ - Teoría 
+ 	- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 
 ## Database
  - Cassandra ( [Link](http://cassandra.apache.org/) ) 
