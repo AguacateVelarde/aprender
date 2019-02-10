@@ -13,6 +13,7 @@
 	 - Python
  - Keras 
  - Q Learning
+ - Sonnet ([link](https://github.com/deepmind/sonnet))
 
 ## Database
  - Cassandra ( [Link](http://cassandra.apache.org/) ) 
