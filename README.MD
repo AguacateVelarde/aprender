@@ -3,7 +3,8 @@
 ## Web 
  - React JS 
  - Express
- - Angular ( Reading ) 
+ - Angular ( Ready ) 
+ - Vue
  
 ## Mobile
  - Flutter 
