@@ -40,8 +40,13 @@
  ## Testing 
  - Mocks
  - Stubs 
- - Jest 
+ - Jest ( [Link](https://jestjs.io/) )
  - E2E
  - Enzyme
  - SinonJS
  - Cypress ( [Link](https://www.cypress.io/) )
+ 
+ ## Serverless 
+ - Now ( [Link](https://zeit.co/now) )
+ - Google Functions 
+ - Firebase functions 
