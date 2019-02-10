@@ -1,7 +1,12 @@
 
 
 ## Web 
- - React JS 
+ - React JS ( [Link](https://reactjs.org/) )
+ 	- [Awesome React](https://github.com/enaqx/awesome-react)
+	- [React roadmap](https://github.com/adam-golab/react-developer-roadmap)
+	- [Fullstack React Book](https://www.fullstackreact.com/)
+	- [Road react Book](https://roadtoreact.com)
+	- [React Quickly](https://www.manning.com/books/react-quickly)  (!!!!!)
  - Node 
  	- Express
  	- Passport JS
