@@ -2,7 +2,9 @@
 
 ## Web 
  - React JS 
- - Express
+ - Node 
+ 	- Express
+ 	- Passport JS
  - Angular ( Ready ) 
  - Vue
  - GraphQL
@@ -23,6 +25,8 @@
  - PostgreSQL (!!!!!)
  - Mongo DB 
   - Mongoose
+ - Redis ( [Link](https://redis.io/) )
+ - Kafka ( [Link](https://kafka.apache.org/))
  - Bookshelf.js ( [Link]( https://bookshelfjs.org/ ) ) 
   
 
