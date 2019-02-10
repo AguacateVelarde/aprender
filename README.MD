@@ -5,10 +5,11 @@
  - Express
  - Angular ( Ready ) 
  - Vue
+ - GraphQL
  
 ## Mobile
  - Flutter 
- - Ionic
+ - Ionic ( Ready ) 
 
 ## ML & AI 
  - Tensorflow 
@@ -37,7 +38,7 @@
 	- Martin Fowler ( [Link](https://martinfowler.com/) )
   	- Introducción a los patrones de diseño: Un enfoque práctico - Oscar Javier Blancarte Iturralde  ( [Link](https://www.amazon.com.mx/Introducci%C3%B3n-los-patrones-dise%C3%B1o-pr%C3%A1ctico-ebook/dp/B01M9CG9QL/ref=sr_1_1?ie=UTF8&qid=1549767764&sr=8-1&keywords=patrones+de+dise%C3%B1o) )
 	- Best practices for Node ( [Link]( https://github.com/i0natan/nodebestpractices ) ) *Reading
- - Interactive learn - Katacoda ([Link](https://www.katacoda.com/learn)) 
+ - Interactive learn - Katacoda ( [Link](https://www.katacoda.com/learn) ) 
  
  ## Testing 
  - Mocks
@@ -45,10 +46,10 @@
  - Jest ( [Link](https://jestjs.io/) )
  - E2E
  - Enzyme
- - SinonJS
+ - SinonJS ( [Link](https://sinonjs.org/) )
  - Cypress ( [Link](https://www.cypress.io/) )
  
  ## Serverless 
  - Now ( [Link](https://zeit.co/now) )
- - Google Functions 
+ - Google functions 
  - Firebase functions 
