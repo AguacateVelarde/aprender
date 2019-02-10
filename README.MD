@@ -1,5 +1,4 @@
 
-# Cosas para aprender 
 
 ## Web 
  - React JS 
@@ -20,6 +19,7 @@
 ## Database
  - Cassandra ( [Link](http://cassandra.apache.org/) ) 
  - Oracle 
+ - PostgreSQL (!!!!!)
  - Mongo DB 
   - Mongoose
   
