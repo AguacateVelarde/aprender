@@ -38,4 +38,10 @@
  - Interactive learn - Katacoda ([Link](https://www.katacoda.com/learn)) 
  
  ## Testing 
- - ?????
+ - Mocks
+ - Stubs 
+ - Jest 
+ - E2E
+ - Enzyme
+ - SinonJS
+ - Cypress ( [Link](https://www.cypress.io/) )
