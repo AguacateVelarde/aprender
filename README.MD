@@ -58,3 +58,10 @@
  - Now ( [Link](https://zeit.co/now) )
  - Google functions 
  - Firebase functions 
+
+## DevOps 
+ - Nginx 
+ - Apache
+ - Docker
+ - Kubernetes
+ 
