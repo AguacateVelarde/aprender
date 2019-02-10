@@ -26,7 +26,8 @@
  - Mongo DB 
   - Mongoose
  - Redis ( [Link](https://redis.io/) )
- - Kafka ( [Link](https://kafka.apache.org/))
+ - Kafka ( [Link](https://kafka.apache.org/)) *Message Brokers
+ - Rabbitmq ( [Link](https://www.rabbitmq.com/) ) *Message Brokers
  - Bookshelf.js ( [Link]( https://bookshelfjs.org/ ) ) 
   
 
