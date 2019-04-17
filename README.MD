@@ -24,9 +24,13 @@
  - Keras 
  - Q Learning
  - Sonnet ( [link](https://github.com/deepmind/sonnet) )
+ - Deep Learning
+	- [ MIT Course Deep Learning ](https://deeplearning.mit.edu/)  *Watching
+		- [ Favorite Video ](https://www.youtube.com/watch?v=1L0TKZQcUtA)
  - Teoría 
  	- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 	- [ Introduction to Machine Learning with Python - @amueller ](https://github.com/amueller/introduction_to_ml_with_python) *Reading
+	
 
 ## Database
  - Cassandra ( [Link](http://cassandra.apache.org/) ) 
@@ -81,3 +85,4 @@
  ## No computer topics 
   - CRISPR - The physicist’s guide to one of biotechnology’s hottest
 new topics: CRISPR-Cas  [ [Link](https://arxiv.org/pdf/1712.09865.pdf) ]
+  - Event horizont Telescope Paper [ [Link](https://iopscience-event-horizon.s3.amazonaws.com/article/10.3847/2041-8213/ab0ec7/The_Event_Horizon_Telescope_Collaboration_2019_ApJL_875_L1.pdf) ]
