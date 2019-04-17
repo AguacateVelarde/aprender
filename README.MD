@@ -77,3 +77,6 @@
  - Ansible
  	- [Ansible en Youtube](https://www.youtube.com/watch?v=Zimn-UCbQ0A)
  -  ELK Stack ( [Link](https://www.elastic.co/elk-stack) )
+ 
+ ## No computer topics 
+  - CRISPR - [ [Link](https://arxiv.org/pdf/1712.09865.pdf) ]
