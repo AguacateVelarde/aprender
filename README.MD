@@ -26,6 +26,7 @@
  - Sonnet ( [link](https://github.com/deepmind/sonnet) )
  - Teoría 
  	- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
+	- [ Introduction to Machine Learning with Python - @amueller ](https://github.com/amueller/introduction_to_ml_with_python) *Reading
 
 ## Database
  - Cassandra ( [Link](http://cassandra.apache.org/) ) 
@@ -52,6 +53,7 @@
   	- Introducción a los patrones de diseño: Un enfoque práctico - Oscar Javier Blancarte Iturralde  ( [Link](https://www.amazon.com.mx/Introducci%C3%B3n-los-patrones-dise%C3%B1o-pr%C3%A1ctico-ebook/dp/B01M9CG9QL/ref=sr_1_1?ie=UTF8&qid=1549767764&sr=8-1&keywords=patrones+de+dise%C3%B1o) )
 	- Best practices for Node ( [Link]( https://github.com/i0natan/nodebestpractices ) ) *Reading
  - Interactive learn - Katacoda ( [Link](https://www.katacoda.com/learn) ) 
+ - Kue - Priority job queue backed by redis, built for node.js ( [Link](https://github.com/Automattic/kue) )
  
  ## Testing 
  - Mocks
