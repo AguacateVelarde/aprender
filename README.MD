@@ -79,4 +79,5 @@
  -  ELK Stack ( [Link](https://www.elastic.co/elk-stack) )
  
  ## No computer topics 
-  - CRISPR - [ [Link](https://arxiv.org/pdf/1712.09865.pdf) ]
+  - CRISPR - The physicist’s guide to one of biotechnology’s hottest
+new topics: CRISPR-Cas  [ [Link](https://arxiv.org/pdf/1712.09865.pdf) ]
