@@ -58,6 +58,7 @@
 	- Best practices for Node ( [Link]( https://github.com/i0natan/nodebestpractices ) ) *Reading
  - Interactive learn - Katacoda ( [Link](https://www.katacoda.com/learn) ) 
  - Kue - Priority job queue backed by redis, built for node.js ( [Link](https://github.com/Automattic/kue) )
+ - PM2
  
  ## Testing 
  - Mocks
