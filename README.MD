@@ -59,6 +59,7 @@
  - Interactive learn - Katacoda ( [Link](https://www.katacoda.com/learn) ) 
  - Kue - Priority job queue backed by redis, built for node.js ( [Link](https://github.com/Automattic/kue) )
  - PM2
+ - Meta [[Link](https://github.com/mateodelnorte/meta)]
  
  ## Testing 
  - Mocks
