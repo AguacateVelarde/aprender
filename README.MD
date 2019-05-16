@@ -50,6 +50,8 @@
  - Dart ( [Link](https://www.dartlang.org/) ) 
   - Flutter *Web
  - Python 
+  - Flask 
+    - Flask-RESTful ([Link]( https://flask-restful.readthedocs.io/en/latest/ ))
 
 ## Best practices
  - Design patterns
@@ -83,6 +85,9 @@
  - Ansible
  	- [Ansible en Youtube](https://www.youtube.com/watch?v=Zimn-UCbQ0A)
  -  ELK Stack ( [Link](https://www.elastic.co/elk-stack) )
+ - Docker **** 
+ - Kubernetes ([Link](https://www.youtube.com/watch?v=LGm-DbLfJLM&list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_))
+ - Terraform 
  
  ## No computer topics 
   - CRISPR - The physicist’s guide to one of biotechnology’s hottest
