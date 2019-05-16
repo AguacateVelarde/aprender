@@ -84,7 +84,7 @@
  - Nginx 
  - Apache
  - Docker
- - Kubernetes
+ - Kubernetes ([Link](https://github.com/pablokbs/peladonerd))
    - Logstach ([Link](https://www.elastic.co/es/products/logstash))
  - Ansible
  	- [Ansible en Youtube](https://www.youtube.com/watch?v=Zimn-UCbQ0A)
